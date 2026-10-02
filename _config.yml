@@ -1,0 +1,9 @@
+title: Blind Vibe Coding
+description: Building Apps Nonvisually with AI
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+lang: en-US
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
