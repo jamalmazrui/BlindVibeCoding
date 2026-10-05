@@ -17,7 +17,7 @@ image_alt: "Illustration: a Black woman wearing earbuds works at a desktop compu
 description: "A screen-reader-friendly directory of resources for blind and low vision people who use a screen reader and build apps with help from AI."
 ---
 
-This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, and the entries added on 3 October 2026 were checked that day.
+This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, the entries added on 3 October 2026 were checked that day, and the two added on 4 October 2026 were checked that day.
 
 A word about the name. Elsewhere, "blind vibe coding" has been used to mean letting an AI write code you never look at. Here the phrase is claimed in a positive sense, the way many communities have taken back a word: blind people building apps with AI, and checking the results by every nonvisual means available. That checking is the opposite of the careless habit the phrase has described.
 
@@ -32,10 +32,10 @@ Building your own tools is a real new option, but it does not excuse anyone from
 - [About this directory](#about-this-directory)
 - [Where to start](#where-to-start)
 - [Agents, add-ons, and skills](#agents-add-ons-and-skills) (11 resources)
-- [AI coding tools](#ai-coding-tools) (5 resources)
+- [AI coding tools](#ai-coding-tools) (6 resources)
 - [Articles and news](#articles-and-news) (7 resources)
 - [Communities and organizations](#communities-and-organizations) (4 resources)
-- [Courses and training](#courses-and-training) (2 resources)
+- [Courses and training](#courses-and-training) (3 resources)
 - [Podcasts and videos](#podcasts-and-videos) (13 resources)
 - [Research](#research) (7 resources)
 - [Appendix: by date](#appendix-by-date)
@@ -83,8 +83,9 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 2. Read [GitHub Copilot for Visual Studio Code](#res-github-copilot-for-visual-studio-code) before letting an AI change your files.
 3. If you prefer a terminal, try [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader) or [Git, GitHub CLI, and Copilot CLI](#res-git-github-cli-and-copilot-cli).
 4. Hear how others did it in [Turning Ideas into Assistive Tools with Vibe Coding](#res-turning-ideas-into-assistive-tools-with-vibe-coding) and [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding).
-5. Before you write an NVDA add-on with AI, read [In-Process 10th March 2026](#res-in-process-10th-march-2026).
-6. To build full Windows programs with an AI, keyboard and screen reader first, see [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit).
+5. New to programming? [Learning Python with NVDA](#res-learning-python-with-nvda) teaches Python inside NVDA itself.
+6. Before you write an NVDA add-on with AI, read [In-Process 10th March 2026](#res-in-process-10th-march-2026).
+7. To build full Windows programs with an AI, keyboard and screen reader first, see [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit), and review the plans your AI writes in [PlanCake](#res-plancake).
 
 ### Mac, iPhone, and iPad with VoiceOver {#mac-iphone-and-ipad-with-voiceover}
 
@@ -269,6 +270,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Publisher: GitHub
 - Type: Documentation
 
+### [PlanCake](https://plan-cake.oire.dev/) {#res-plancake}
+
+- Cost: Free; donations welcome
+- Date: October 2026
+- Description: A Windows program for reading and annotating Markdown files, written by a blind developer who reviews the long plans that AI coding tools produce. Open a file, move through it by headings, lists, links, and tables, and press Enter anywhere to add a note; notes are kept inside the file, with no Internet connection except an update check. It exports the document to HTML and the notes to JSON. Source is on [GitHub](https://github.com/Oire/plan-cake).
+- Evidence: Designed for screen readers
+- Level: Intermediate
+- Platforms: Windows
+- Publisher: André Polykanine, Oire Software
+- Type: Software
+
 ### [Use Claude Code with a Screen Reader](https://code.claude.com/docs/en/accessibility) {#res-use-claude-code-with-a-screen-reader}
 
 - Cost: Free guide; Claude Code needs a paid Claude plan or API account
@@ -427,6 +439,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Platforms: Linux, Mac, web, Windows
 - Publisher: Community Access
 - Type: Course
+
+### [Learning Python with NVDA](https://github.com/KevinVelasquezVargas/python_tutor) {#res-learning-python-with-nvda}
+
+- Cost: Free and open source
+- Date: October 2026
+- Description: An NVDA add-on that teaches Python inside the screen reader, in English and Spanish, with 40 chapters and 160 lessons. It has a guided mode and a free editor mode, sounds that mark indentation, syntax checking, quizzes, progress tracking, and optional help from an AI model with your own Google Gemini key. Version 3.0.0 works with NVDA 2022.1 through 2026.2, and the add-on is in the NVDA Add-on Store under the same name. The author's own vision was not stated on the page.
+- Evidence: Designed for screen readers
+- Level: Beginner
+- Platforms: Windows
+- Publisher: Kevin Velásquez Vargas
+- Type: Course and NVDA add-on
 
 ### [Using Claude with JAWS, ZoomText, and Fusion](https://traffic.libsyn.com/secure/freedomscientifictraining/pod_Claude_webinar_2.5.2026.mp3) {#res-using-claude-with-jaws-zoomtext-and-fusion}
 
@@ -681,11 +704,13 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (25 resources) {#2026-25-resources}
+### 2026 (27 resources) {#2026-27-resources}
 
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Fall 2026)
 - [GitHub Repository Landing Pages Now Show an Accessibility Tab, If Provided](#res-github-repository-landing-pages-now-show-an-accessibility-tab-if-provided) (October 2026)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit) (October 2026)
+- [Learning Python with NVDA](#res-learning-python-with-nvda) (October 2026)
+- [PlanCake](#res-plancake) (October 2026)
 - [Accessibility Skills for AI Agents](#res-accessibility-skills-for-ai-agents) (September 2026)
 - [LipCoder: Voice-Enabled Coding Toolkit](#res-lipcoder-voice-enabled-coding-toolkit) (August 2026)
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast) (July 2026)
@@ -771,10 +796,12 @@ A resource appears under each kind of evidence it has.
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 - [Weekend: Good Vibes](#res-weekend-good-vibes)
 
-### Designed for screen readers (2 resources) {#designed-for-screen-readers-2-resources}
+### Designed for screen readers (4 resources) {#designed-for-screen-readers-4-resources}
 
 - [Git Going with GitHub](#res-git-going-with-github)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit)
+- [Learning Python with NVDA](#res-learning-python-with-nvda)
+- [PlanCake](#res-plancake)
 
 ### Official support (5 resources) {#official-support-5-resources}
 
@@ -918,7 +945,7 @@ A resource appears under each platform it covers.
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion)
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 
-### Windows (20 resources) {#windows-20-resources}
+### Windows (22 resources) {#windows-22-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -933,7 +960,9 @@ A resource appears under each platform it covers.
 - [GitHub Copilot for Visual Studio Code](#res-github-copilot-for-visual-studio-code)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit)
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026)
+- [Learning Python with NVDA](#res-learning-python-with-nvda)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions)
+- [PlanCake](#res-plancake)
 - [Turning Ideas into Assistive Tools with Vibe Coding](#res-turning-ideas-into-assistive-tools-with-vibe-coding)
 - [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader)
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion)
@@ -981,9 +1010,11 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible) (Podcasts and videos)
 - [The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired](#res-the-impact-of-generative-ai-coding-assistants-on-developers-who-are-visually-impaired) (Research)
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026) (Agents, add-ons, and skills)
+- [Learning Python with NVDA](#res-learning-python-with-nvda) (Courses and training)
 - [LipCoder: Voice-Enabled Coding Toolkit](#res-lipcoder-voice-enabled-coding-toolkit) (Research)
 - [Microsoft Study Shows AI Assistants Help with Development for Programmers Who Are Blind or Have Low Vision](#res-microsoft-study-shows-ai-assistants-help-with-development-for-programmers-who-are-blind-or-have-low-vision) (Research)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions) (Agents, add-ons, and skills)
+- [PlanCake](#res-plancake) (AI coding tools)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape) (Research)
 - [Smart Glasses, Perkins Braillers, and Vibe Coding](#res-smart-glasses-perkins-braillers-and-vibe-coding) (Podcasts and videos)
 - [Swift Agents](#res-swift-agents) (Agents, add-ons, and skills)
@@ -1014,7 +1045,7 @@ A starting routine drawn from the resources above. It is not a standard, and no 
 
 ## Appendix: how this directory was made {#appendix-how-this-directory-was-made}
 
-Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, or on 3 October 2026 for the three entries about the GitHub accessibility tab, and every description is based on what the page itself says.
+Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, on 3 October 2026 for the three entries about the GitHub accessibility tab, or on 4 October 2026 for PlanCake and Learning Python with NVDA, and every description is based on what the page itself says.
 
 What verification means here:
 
