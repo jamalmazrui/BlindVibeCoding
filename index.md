@@ -4,7 +4,7 @@ subtitle: "Building Apps Nonvisually with AI"
 pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.6.0"
+version: "v1.7.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -49,7 +49,7 @@ Building your own tools is a real new option, but it does not excuse anyone from
 
 Each category is a level 2 heading. Each resource is a level 3 heading whose text is a link to the resource. Under each resource is a short list of fields in alphabetical order: Cost, Date, Description, Evidence, Level, Platforms, Publisher, Transcript, Type, and Web page. A field is shown only when it has something to say. Categories and resources are in alphabetical order, ignoring a leading "A," "An," or "The." The appendixes list every resource again by date, by evidence, by platform, and by title, followed by a practical checklist and a note on how the directory was made.
 
-The book. This directory has a companion Kindle ebook, *Blind Vibe Coding: Building Apps Nonvisually with AI* by Jamal Mazrui (October 2026): sixteen hands-on tutorials, most opening with the story of a real builder, from a talking timer made in a chat window to Windows programs, NVDA add-ons, browser extensions, and iPhone and Android apps, with a nonvisual release checklist and a glossary. It is [sold on Amazon's Kindle store](https://www.amazon.com/dp/B0HLVK4H3W), at $4.99 with no DRM, so buyers can also download it as an EPUB from their Amazon account. Its sources, build scripts and publishing script are in the book's own GitHub repository, so the project can be rebuilt and updated as the tools change.
+The book. This directory has a companion Kindle ebook, *Blind Vibe Coding: Building Apps Nonvisually with AI* by Jamal Mazrui (October 2026): sixteen hands-on tutorials, most opening with the story of a real builder, from a talking timer made in a chat window to Windows programs, NVDA add-ons, browser extensions, and iPhone and Android apps, with a nonvisual release checklist and a glossary. Its second update, submitted on 6 October 2026, adds what [Blind Apps](#res-blind-apps) shows about where blind developers actually build, from the platforms they choose to the Android apps they have shipped, and a note on telling directory keepers about a finished app. It is [sold on Amazon's Kindle store](https://www.amazon.com/dp/B0HLVK4H3W), at $4.99 with no DRM, so buyers can also download it as an EPUB from their Amazon account. Its sources, build scripts and publishing script are in the book's own GitHub repository, so the project can be rebuilt and updated as the tools change.
 
 ![The book's cover: on a deep navy background, the title Blind Vibe Coding in cream serif letters, the subtitle Building Apps Nonvisually with AI in amber, then a mark made of an opening and a closing angle bracket with a sound wave between them, and the author's name, Jamal Mazrui, in cream capitals.](images/Blind_Vibe_Coding_cover.jpg)
 
