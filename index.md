@@ -4,7 +4,7 @@ subtitle: "Building Apps Nonvisually with AI"
 pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.5.0"
+version: "v1.6.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -17,7 +17,7 @@ image_alt: "Illustration: a Black woman wearing earbuds works at a desktop compu
 description: "A screen-reader-friendly directory of resources for blind and low vision people who use a screen reader and build apps with help from AI."
 ---
 
-This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, the entries added on 3 October 2026 were checked that day, and the two added on 4 October 2026 were checked that day.
+This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, the entries added on 3 October 2026 were checked that day, the two added on 4 October 2026 were checked that day, and the one added on 6 October 2026 was checked that day.
 
 A word about the name. Elsewhere, "blind vibe coding" has been used to mean letting an AI write code you never look at. Here the phrase is claimed in a positive sense, the way many communities have taken back a word: blind people building apps with AI, and checking the results by every nonvisual means available. That checking is the opposite of the careless habit the phrase has described.
 
@@ -34,7 +34,7 @@ Building your own tools is a real new option, but it does not excuse anyone from
 - [Agents, add-ons, and skills](#agents-add-ons-and-skills) (11 resources)
 - [AI coding tools](#ai-coding-tools) (6 resources)
 - [Articles and news](#articles-and-news) (7 resources)
-- [Communities and organizations](#communities-and-organizations) (4 resources)
+- [Communities and organizations](#communities-and-organizations) (5 resources)
 - [Courses and training](#courses-and-training) (3 resources)
 - [Podcasts and videos](#podcasts-and-videos) (13 resources)
 - [Research](#research) (7 resources)
@@ -73,7 +73,7 @@ What the Level field means. Beginner resources assume you can use your screen re
 
 How dates were set. When a page shows a date, that date is used. When it does not, the date comes from facts in the page itself. For example, the term "vibe coding" was coined in February 2025, so a page about vibe coding is from 2025 or later. Such dates say "or later." An older tool can appear through a 2024 or later guide, release, or update.
 
-Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Visual Studio Code, GitHub, and web apps. Android appears through a single accessibility article, and no qualifying English resource from 2024 or later was found about building Alexa or other voice apps with AI. Linux is covered by terminal tools that run on Linux, Mac, and Windows. Browser-based app builders appear only through research; the ASSETS 2025 paper in the Research section found that tools of this kind often leave screen reader users without word of what the agent is doing.
+Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Visual Studio Code, GitHub, and web apps. Android appears through a single accessibility article and through the Android apps that blind developers have shipped, listed in [Blind Apps](#res-blind-apps). No qualifying English resource from 2024 or later was found about building Alexa or other voice apps with AI. Linux is covered by terminal tools that run on Linux, Mac, and Windows. Browser-based app builders appear only through research; the ASSETS 2025 paper in the Research section found that tools of this kind often leave screen reader users without word of what the agent is doing.
 
 ## Where to start {#where-to-start}
 
@@ -98,7 +98,8 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 1. Read [Google I/O and GenAI's Impact on Accessibility](#res-google-i-o-and-genai-s-impact-on-accessibility) to see how well Gemini in Android Studio writes accessible code.
 2. Consider a web app instead of a native one, as described in [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant).
-3. Whatever you build, test it with TalkBack on a real phone.
+3. See which blind developers have shipped Android apps, and what they built them with, in [Blind Apps](#res-blind-apps).
+4. Whatever you build, test it with TalkBack on a real phone.
 
 ### Linux or a terminal-only workflow {#linux-or-a-terminal-only-workflow}
 
@@ -405,6 +406,16 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Publisher: AppleVis (Be My Eyes)
 - Type: Community website
 
+### [Blind Apps](https://jamalmazrui.github.io/BlindApps/) {#res-blind-apps}
+
+- Cost: Free
+- Date: October 2026
+- Description: A screen-reader-friendly directory of 90 apps and tools made by 39 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by macOS, iOS, NVDA add-ons, the web, Android, and Linux, and Python is the most common language. Fifteen of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
+- Level: Beginner
+- Platforms: Android, iOS, Linux, Mac, web, Windows
+- Publisher: Jamal Mazrui
+- Type: Directory
+
 ### [Can We Talk About Vibe Coding?](https://www.applevis.com/comment/202762) {#res-can-we-talk-about-vibe-coding}
 
 - Cost: Free
@@ -704,8 +715,9 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (27 resources) {#2026-27-resources}
+### 2026 (28 resources) {#2026-28-resources}
 
+- [Blind Apps](#res-blind-apps) (October 2026)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Fall 2026)
 - [GitHub Repository Landing Pages Now Show an Accessibility Tab, If Provided](#res-github-repository-landing-pages-now-show-an-accessibility-tab-if-provided) (October 2026)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit) (October 2026)
@@ -851,9 +863,10 @@ A resource appears under each kind of evidence it has.
 
 A resource appears under each platform it covers.
 
-### Android (2 resources) {#android-2-resources}
+### Android (3 resources) {#android-3-resources}
 
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
+- [Blind Apps](#res-blind-apps)
 - [Google I/O and GenAI's Impact on Accessibility](#res-google-i-o-and-genai-s-impact-on-accessibility)
 
 ### Cross-platform (7 resources) {#cross-platform-7-resources}
@@ -866,22 +879,24 @@ A resource appears under each platform it covers.
 - [Microsoft Study Shows AI Assistants Help with Development for Programmers Who Are Blind or Have Low Vision](#res-microsoft-study-shows-ai-assistants-help-with-development-for-programmers-who-are-blind-or-have-low-vision)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape)
 
-### iOS (8 resources) {#ios-8-resources}
+### iOS (9 resources) {#ios-9-resources}
 
 - [AppleVis](#res-applevis)
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes)
+- [Blind Apps](#res-blind-apps)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding)
 - [Earshot and Beyond: How Blind Developers Are Creating with AI](#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai)
 - [Swift Agents](#res-swift-agents)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence)
 
-### Linux (12 resources) {#linux-12-resources}
+### Linux (13 resources) {#linux-13-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
 - [Accessibility Skills for AI Agents](#res-accessibility-skills-for-ai-agents)
+- [Blind Apps](#res-blind-apps)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
 - [Gemini CLI Settings](#res-gemini-cli-settings)
 - [Getting Started with GitHub Copilot Custom Agents for Accessibility](#res-getting-started-with-github-copilot-custom-agents-for-accessibility)
@@ -892,7 +907,7 @@ A resource appears under each platform it covers.
 - [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader)
 - [Visual Studio Code April 2024 (version 1.89)](#res-visual-studio-code-april-2024-version-1-89)
 
-### Mac (21 resources) {#mac-21-resources}
+### Mac (22 resources) {#mac-22-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -900,6 +915,7 @@ A resource appears under each platform it covers.
 - [AppleVis](#res-applevis)
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes)
+- [Blind Apps](#res-blind-apps)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
 - [Gemini CLI Settings](#res-gemini-cli-settings)
@@ -920,7 +936,7 @@ A resource appears under each platform it covers.
 
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple)
 
-### Web (22 resources) {#web-22-resources}
+### Web (23 resources) {#web-23-resources}
 
 - [A11y LLM Eval Report](#res-a11y-llm-eval-report)
 - [Accessibility Agents](#res-accessibility-agents)
@@ -932,6 +948,7 @@ A resource appears under each platform it covers.
 - [AI-Powered Accessibility Scanner](#res-ai-powered-accessibility-scanner)
 - [AppleVis](#res-applevis)
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
+- [Blind Apps](#res-blind-apps)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
 - [CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development](#res-codea11y-making-ai-coding-assistants-useful-for-accessible-web-development)
 - [Everybody Is Vibe Coding. Here Is What That Does to Accessibility, and What to Actually Do About It.](#res-everybody-is-vibe-coding-here-is-what-that-does-to-accessibility-and-what-to-actually-do-about-it)
@@ -945,11 +962,12 @@ A resource appears under each platform it covers.
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion)
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 
-### Windows (22 resources) {#windows-22-resources}
+### Windows (23 resources) {#windows-23-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
 - [Accessibility Skills for AI Agents](#res-accessibility-skills-for-ai-agents)
+- [Blind Apps](#res-blind-apps)
 - [Bobby Singh – Finding Light Through NVDA](#res-bobby-singh-finding-light-through-nvda)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding)
@@ -989,6 +1007,7 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant) (Podcasts and videos)
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast) (Podcasts and videos)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes) (Podcasts and videos)
+- [Blind Apps](#res-blind-apps) (Communities and organizations)
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple) (Podcasts and videos)
 - [Bobby Singh – Finding Light Through NVDA](#res-bobby-singh-finding-light-through-nvda) (Articles and news)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding) (Communities and organizations)
@@ -1045,7 +1064,7 @@ A starting routine drawn from the resources above. It is not a standard, and no 
 
 ## Appendix: how this directory was made {#appendix-how-this-directory-was-made}
 
-Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, on 3 October 2026 for the three entries about the GitHub accessibility tab, or on 4 October 2026 for PlanCake and Learning Python with NVDA, and every description is based on what the page itself says.
+Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, on 3 October 2026 for the three entries about the GitHub accessibility tab, on 4 October 2026 for PlanCake and Learning Python with NVDA, or on 6 October 2026 for Blind Apps, and every description is based on what the page itself says.
 
 What verification means here:
 
