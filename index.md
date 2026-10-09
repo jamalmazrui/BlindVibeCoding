@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Blind Vibe Coding"
 subtitle: "Building Apps Nonvisually with AI"
 pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
