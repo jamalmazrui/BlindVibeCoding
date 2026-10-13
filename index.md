@@ -1,6 +1,6 @@
 ---
 title: "Blind Vibe Coding"
-subtitle: "Building Apps Nonvisually with AI"
+subtitle: "A Directory of 53 Resources for Building Apps Nonvisually with AI"
 pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
@@ -29,6 +29,7 @@ Building your own tools is a real new option, but it does not excuse anyone from
 
 ## Contents {#contents}
 
+- [By the Numbers](#by-the-numbers)
 - [About this directory](#about-this-directory)
 - [Where to start](#where-to-start)
 - [Agents, add-ons, and skills](#agents-add-ons-and-skills) (11 resources)
@@ -44,6 +45,12 @@ Building your own tools is a real new option, but it does not excuse anyone from
 - [Appendix: by title](#appendix-by-title)
 - [Appendix: a nonvisual development checklist](#appendix-a-nonvisual-development-checklist)
 - [Appendix: how this directory was made](#appendix-how-this-directory-was-made)
+
+## By the Numbers {#by-the-numbers}
+
+- 96% of the 53 resources are free.
+- 20 resources draw on a blind or low vision person's own experience.
+- Mac and Windows lead the platforms, with 23 resources each.
 
 ## About this directory {#about-this-directory}
 
@@ -372,6 +379,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Level: Intermediate
 - Platforms: Android
 - Publisher: Deque Systems
+- Type: Article
+
+### [I Never Thought I Would Say This, but I'm Going Back to Claude](https://taylorarndt.substack.com/p/i-never-thought-i-would-say-this) {#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude}
+
+- Cost: Free
+- Date: October 2026
+- Description: A blind developer who builds apps at Techopolis explains why she moved her team from Codex back to Claude Code, and how she works with VoiceOver in the terminal. Claude Code has a screen reader mode that removes the box-drawing characters a screen reader reads badly; it is turned on by a flag that is hard to find, and once set, each session says at the top that the mode is active and the edit field is a plain prompt.
+- Evidence: Blind or low vision user experience
+- Level: Intermediate
+- Platforms: Mac
+- Publisher: Taylor's Substack
 - Type: Article
 
 ### [Taylor's Teardowns: Xcode Intelligence](https://taylorarndt.substack.com/p/taylors-teardowns-xcode-intelligence) {#res-taylor-s-teardowns-xcode-intelligence}
@@ -717,12 +735,13 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (28 resources) {#2026-28-resources}
+### 2026 (29 resources) {#2026-28-resources}
 
 - [Blind Apps](#res-blind-apps) (October 2026)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Fall 2026)
 - [GitHub Repository Landing Pages Now Show an Accessibility Tab, If Provided](#res-github-repository-landing-pages-now-show-an-accessibility-tab-if-provided) (October 2026)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit) (October 2026)
+- [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude) (October 2026)
 - [Learning Python with NVDA](#res-learning-python-with-nvda) (October 2026)
 - [PlanCake](#res-plancake) (October 2026)
 - [Accessibility Skills for AI Agents](#res-accessibility-skills-for-ai-agents) (September 2026)
@@ -788,7 +807,7 @@ Newest first. Within a group, entries with a known month come first, then the re
 
 A resource appears under each kind of evidence it has.
 
-### Blind or low vision user experience (19 resources) {#blind-or-low-vision-user-experience-19-resources}
+### Blind or low vision user experience (20 resources) {#blind-or-low-vision-user-experience-19-resources}
 
 - [AI Adventures: Coding, Plugins, and Panda Express Mishaps with Taylor Arndt](#res-ai-adventures-coding-plugins-and-panda-express-mishaps-with-taylor-arndt)
 - [AI's Role in Improving Accessibility](#res-ai-s-role-in-improving-accessibility)
@@ -803,6 +822,7 @@ A resource appears under each kind of evidence it has.
 - [Everybody Is Vibe Coding. Here Is What That Does to Accessibility, and What to Actually Do About It.](#res-everybody-is-vibe-coding-here-is-what-that-does-to-accessibility-and-what-to-actually-do-about-it)
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone)
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible)
+- [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude)
 - [Smart Glasses, Perkins Braillers, and Vibe Coding](#res-smart-glasses-perkins-braillers-and-vibe-coding)
 - [Swift Agents](#res-swift-agents)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence)
@@ -909,7 +929,7 @@ A resource appears under each platform it covers.
 - [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader)
 - [Visual Studio Code April 2024 (version 1.89)](#res-visual-studio-code-april-2024-version-1-89)
 
-### Mac (22 resources) {#mac-22-resources}
+### Mac (23 resources) {#mac-22-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -925,6 +945,7 @@ A resource appears under each platform it covers.
 - [Git Going with GitHub](#res-git-going-with-github)
 - [Git, GitHub CLI, and Copilot CLI](#res-git-github-cli-and-copilot-cli)
 - [GitHub Copilot for Visual Studio Code](#res-github-copilot-for-visual-studio-code)
+- [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude)
 - [LipCoder: Voice-Enabled Coding Toolkit](#res-lipcoder-voice-enabled-coding-toolkit)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions)
 - [Swift Agents](#res-swift-agents)
@@ -1029,6 +1050,7 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit) (Agents, add-ons, and skills)
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone) (Podcasts and videos)
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible) (Podcasts and videos)
+- [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude) (Articles and news)
 - [The Impact of Generative AI Coding Assistants on Developers Who Are Visually Impaired](#res-the-impact-of-generative-ai-coding-assistants-on-developers-who-are-visually-impaired) (Research)
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026) (Agents, add-ons, and skills)
 - [Learning Python with NVDA](#res-learning-python-with-nvda) (Courses and training)
