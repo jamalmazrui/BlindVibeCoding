@@ -1,6 +1,6 @@
 ---
 title: "Blind Vibe Coding"
-subtitle: "A Directory of 53 Resources for Building Apps Nonvisually with AI"
+subtitle: "A Directory of 54 Resources for Building Apps Nonvisually with AI"
 pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
@@ -48,7 +48,7 @@ Building your own tools is a real new option, but it does not excuse anyone from
 
 ## By the Numbers {#by-the-numbers}
 
-- 96% of the 53 resources are free.
+- 96% of the 54 resources are free.
 - 20 resources draw on a blind or low vision person's own experience.
 - Mac and Windows lead the platforms, with 23 resources each.
 
@@ -603,6 +603,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Type: Video and podcast episode
 - Web page: [Open the web page](https://www.lennysnewsletter.com/p/how-this-visually-impaired-engineer)
 
+### [Road to the National Coding Symposium 2026: BT Code](https://www.youtube.com/watch?v=amMff5fXODc) {#res-road-to-the-national-coding-symposium-2026-bt-code}
+
+- Cost: Free
+- Date: 2026
+- Description: An American Printing House for the Blind presentation of BT Code, the Python environment built into Blazie Technologies' BT Speak and BT Braille, where everything is spoken and shown in braille. Its AI assistant, Cody, is designed as a tutor rather than a code writer: it knows which lesson the learner is on, answers only from what has been taught so far, explains Python's error messages in plain words, and can be given a choice of personalities. The presentation runs 56 minutes and walks through lessons, a coding challenge, debugging and the Code Store where users share projects.
+- Evidence: Designed for screen readers
+- Level: Beginner
+- Publisher: American Printing House for the Blind
+- Type: Video
+- Web page: [APH event listing](https://www.aph.org/blog/events/road-to-the-national-coding-symposium-bt-code/)
+
 ### [Smart Glasses, Perkins Braillers, and Vibe Coding](https://technically-working.pinecast.co/episode/56c408fc/smart-glasses-perkins-braillers-and-vibe-coding) {#res-smart-glasses-perkins-braillers-and-vibe-coding}
 
 - Cost: Free
@@ -735,7 +746,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (29 resources) {#2026-28-resources}
+### 2026 (30 resources) {#2026-28-resources}
 
 - [Blind Apps](#res-blind-apps) (October 2026)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Fall 2026)
@@ -754,6 +765,7 @@ Newest first. Within a group, entries with a known month come first, then the re
 - [Git, GitHub CLI, and Copilot CLI](#res-git-github-cli-and-copilot-cli) (May 2026)
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone) (April 2026 or later)
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026) (March 2026)
+- [Road to the National Coding Symposium 2026: BT Code](#res-road-to-the-national-coding-symposium-2026-bt-code) (2026)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence) (March 2026)
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible) (February 2026)
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion) (February 2026)
@@ -830,12 +842,13 @@ A resource appears under each kind of evidence it has.
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 - [Weekend: Good Vibes](#res-weekend-good-vibes)
 
-### Designed for screen readers (4 resources) {#designed-for-screen-readers-4-resources}
+### Designed for screen readers (5 resources) {#designed-for-screen-readers-4-resources}
 
 - [Git Going with GitHub](#res-git-going-with-github)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit)
 - [Learning Python with NVDA](#res-learning-python-with-nvda)
 - [PlanCake](#res-plancake)
+- [Road to the National Coding Symposium 2026: BT Code](#res-road-to-the-national-coding-symposium-2026-bt-code)
 
 ### Official support (5 resources) {#official-support-5-resources}
 
@@ -955,9 +968,10 @@ A resource appears under each platform it covers.
 - [Visual Studio Code April 2024 (version 1.89)](#res-visual-studio-code-april-2024-version-1-89)
 - [Weekend: Good Vibes](#res-weekend-good-vibes)
 
-### Platform not stated (1 resource) {#platform-not-stated-1-resource}
+### Platform not stated (2 resources) {#platform-not-stated-1-resource}
 
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple)
+- [Road to the National Coding Symposium 2026: BT Code](#res-road-to-the-national-coding-symposium-2026-bt-code)
 
 ### Web (23 resources) {#web-23-resources}
 
@@ -1059,6 +1073,7 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions) (Agents, add-ons, and skills)
 - [PlanCake](#res-plancake) (AI coding tools)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape) (Research)
+- [Road to the National Coding Symposium 2026: BT Code](#res-road-to-the-national-coding-symposium-2026-bt-code) (Podcasts and videos)
 - [Smart Glasses, Perkins Braillers, and Vibe Coding](#res-smart-glasses-perkins-braillers-and-vibe-coding) (Podcasts and videos)
 - [Swift Agents](#res-swift-agents) (Agents, add-ons, and skills)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence) (Articles and news)
