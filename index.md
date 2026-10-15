@@ -1,7 +1,6 @@
 ---
 title: "Blind Vibe Coding"
 subtitle: "A Directory of 54 Resources for Building Apps Nonvisually with AI"
-pagetitle: "Blind Vibe Coding: Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
 version: "v1.7.0"
