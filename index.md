@@ -3,7 +3,7 @@ title: "Blind Vibe Coding"
 subtitle: "A Directory of 54 Resources for Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.7.0"
+version: "v1.7.1"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -429,7 +429,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 - Cost: Free
 - Date: October 2026
-- Description: A screen-reader-friendly directory of 97 apps and tools made by 40 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by macOS, iOS, NVDA add-ons, the web, Android, and Linux, and Python is the most common language. Eighteen of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
+- Description: A screen-reader-friendly directory of 131 apps and tools made by 44 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by macOS and NVDA add-ons, then iOS, the web, Android, and Linux, and Python is the most common language. Twenty-one of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
 - Level: Beginner
 - Platforms: Android, iOS, Linux, Mac, web, Windows
 - Publisher: Jamal Mazrui
