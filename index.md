@@ -1,9 +1,9 @@
 ---
 title: "Blind Vibe Coding"
-subtitle: "A Directory of 54 Resources for Building Apps Nonvisually with AI"
+subtitle: "A Directory of 56 Resources for Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "October 2026"
-version: "v1.7.1"
+version: "v1.8.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -36,7 +36,7 @@ Building your own tools is a real new option, but it does not excuse anyone from
 - [Articles and news](#articles-and-news) (7 resources)
 - [Communities and organizations](#communities-and-organizations) (5 resources)
 - [Courses and training](#courses-and-training) (3 resources)
-- [Podcasts and videos](#podcasts-and-videos) (13 resources)
+- [Podcasts and videos](#podcasts-and-videos) (15 resources)
 - [Research](#research) (7 resources)
 - [Appendix: by date](#appendix-by-date)
 - [Appendix: by evidence](#appendix-by-evidence)
@@ -47,9 +47,9 @@ Building your own tools is a real new option, but it does not excuse anyone from
 
 ## By the Numbers {#by-the-numbers}
 
-- 96% of the 54 resources are free.
-- 20 resources draw on a blind or low vision person's own experience.
-- Mac and Windows lead the platforms, with 23 resources each.
+- 96% of the 56 resources are free.
+- 22 resources draw on a blind or low vision person's own experience.
+- Mac and Windows lead the platforms, with 25 resources each.
 
 ## About this directory {#about-this-directory}
 
@@ -429,7 +429,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 - Cost: Free
 - Date: October 2026
-- Description: A screen-reader-friendly directory of 131 apps and tools made by 44 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by macOS and NVDA add-ons, then iOS, the web, Android, and Linux, and Python is the most common language. Twenty-one of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
+- Description: A screen-reader-friendly directory of 133 apps and tools made by 45 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by macOS and NVDA add-ons, then iOS, the web, Android, and Linux, and Python is the most common language. Twenty-three of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
 - Level: Beginner
 - Platforms: Android, iOS, Linux, Mac, web, Windows
 - Publisher: Jamal Mazrui
@@ -554,6 +554,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Transcript: [Read the transcript](https://www.applevis.com/podcasts/applevis-extra-115-blind-developer-showcase-chat-quinton-williams-val-voice-alarm-chimes)
 - Type: Podcast episode
 
+### [Blind Developer Creates Seamless Windows on Mac Experience](https://doubletaponair.com/blind-developer-creates-seamless-windows-on-mac-experience/) {#res-blind-developer-creates-seamless-windows-on-mac-experience}
+
+- Cost: Free
+- Date: 2026
+- Description: Steven Scott and Shaun Preece talk with Allison Meloy about AVM, her accessible virtual machine for running Windows on an Apple Silicon Mac with VoiceOver, which she built by vibe coding with Claude without a background in programming. They cover audio cues, keyboard mapping, and what AI could mean for blind developers and their jobs.
+- Evidence: Blind or low vision user experience
+- Level: Beginner
+- Platforms: Mac, Windows
+- Publisher: Double Tap (Steven Scott and Shaun Preece)
+- Type: Podcast episode
+
 ### [Blind RSS and Vibe Coding: Accessible News Made Simple](https://op3.dev/e/injector.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/fc58c1de-b4a2-4cce-8e70-2616edd885fb/audio/128/default.mp3) {#res-blind-rss-and-vibe-coding-accessible-news-made-simple}
 
 - Cost: Free
@@ -565,6 +576,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Publisher: Double Tap (Steven Scott and Shaun Preece)
 - Type: Podcast episode
 - Web page: [Open the web page](https://doubletaponair.com/blind-rss-vibe-coding-accessible-news-made-simple/)
+
+### [A Discussion Panel on Vibe Coding and Accessibility](https://nfb.org/programs-services/center-excellence-nonvisual-access/events) {#res-a-discussion-panel-on-vibe-coding-and-accessibility}
+
+- Cost: Free
+- Date: October 2026
+- Description: A National Federation of the Blind Access On panel, held on Zoom on October 27, 2026, with three blind builders: Allison Meloy, who vibe coded AVM and AccessTerm for the Mac; Andre "Onj" Louis, a London musician who builds speech, music, and system tools; and Luke Liebe, a computer science graduate in blindness employment services who uses AI to port programs and helped bring classic iPhone audio games such as Papa Sangre back on Windows. They discuss when AI-written code is slop and when it is careful work, why AI tools still make inaccessible interfaces by default, testing with your own screen reader before release, and using AI as a patient tutor. The page lists the event; a recording goes to people who registered.
+- Evidence: Blind or low vision user experience
+- Level: Beginner
+- Platforms: Mac, Windows
+- Publisher: National Federation of the Blind (Access On)
+- Type: Webinar
 
 ### [Earshot and Beyond: How Blind Developers Are Creating with AI](https://op3.dev/e/injector.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/0ac0bf6b-d9c0-4aa5-9f22-d335ebc5db5a/audio/128/default.mp3) {#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai}
 
@@ -745,9 +767,10 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (30 resources) {#2026-28-resources}
+### 2026 (32 resources) {#2026-28-resources}
 
 - [Blind Apps](#res-blind-apps) (October 2026)
+- [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility) (October 2026)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Fall 2026)
 - [GitHub Repository Landing Pages Now Show an Accessibility Tab, If Provided](#res-github-repository-landing-pages-now-show-an-accessibility-tab-if-provided) (October 2026)
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit) (October 2026)
@@ -772,6 +795,7 @@ Newest first. Within a group, entries with a known month come first, then the re
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford) (2026)
 - [Adding an Accessibility Page to Your Repository](#res-adding-an-accessibility-page-to-your-repository) (2026)
 - [AI-Powered Accessibility Scanner](#res-ai-powered-accessibility-scanner) (2026)
+- [Blind Developer Creates Seamless Windows on Mac Experience](#res-blind-developer-creates-seamless-windows-on-mac-experience) (2026)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding) (2026)
 - [Community Access](#res-community-access) (2026)
 - [Git Going with GitHub](#res-git-going-with-github) (2026)
@@ -818,16 +842,18 @@ Newest first. Within a group, entries with a known month come first, then the re
 
 A resource appears under each kind of evidence it has.
 
-### Blind or low vision user experience (20 resources) {#blind-or-low-vision-user-experience-19-resources}
+### Blind or low vision user experience (22 resources) {#blind-or-low-vision-user-experience-19-resources}
 
 - [AI Adventures: Coding, Plugins, and Panda Express Mishaps with Taylor Arndt](#res-ai-adventures-coding-plugins-and-panda-express-mishaps-with-taylor-arndt)
 - [AI's Role in Improving Accessibility](#res-ai-s-role-in-improving-accessibility)
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes)
+- [Blind Developer Creates Seamless Windows on Mac Experience](#res-blind-developer-creates-seamless-windows-on-mac-experience)
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple)
 - [Bobby Singh – Finding Light Through NVDA](#res-bobby-singh-finding-light-through-nvda)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding)
+- [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding)
 - [Earshot and Beyond: How Blind Developers Are Creating with AI](#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai)
 - [Everybody Is Vibe Coding. Here Is What That Does to Accessibility, and What to Actually Do About It.](#res-everybody-is-vibe-coding-here-is-what-that-does-to-accessibility-and-what-to-actually-do-about-it)
@@ -941,7 +967,7 @@ A resource appears under each platform it covers.
 - [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader)
 - [Visual Studio Code April 2024 (version 1.89)](#res-visual-studio-code-april-2024-version-1-89)
 
-### Mac (23 resources) {#mac-22-resources}
+### Mac (25 resources) {#mac-22-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -950,8 +976,10 @@ A resource appears under each platform it covers.
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes)
 - [Blind Apps](#res-blind-apps)
+- [Blind Developer Creates Seamless Windows on Mac Experience](#res-blind-developer-creates-seamless-windows-on-mac-experience)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
+- [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility)
 - [Gemini CLI Settings](#res-gemini-cli-settings)
 - [Getting Started with GitHub Copilot Custom Agents for Accessibility](#res-getting-started-with-github-copilot-custom-agents-for-accessibility)
 - [Git Going with GitHub](#res-git-going-with-github)
@@ -998,14 +1026,16 @@ A resource appears under each platform it covers.
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion)
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 
-### Windows (23 resources) {#windows-23-resources}
+### Windows (25 resources) {#windows-23-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
 - [Accessibility Skills for AI Agents](#res-accessibility-skills-for-ai-agents)
 - [Blind Apps](#res-blind-apps)
+- [Blind Developer Creates Seamless Windows on Mac Experience](#res-blind-developer-creates-seamless-windows-on-mac-experience)
 - [Bobby Singh – Finding Light Through NVDA](#res-bobby-singh-finding-light-through-nvda)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server)
+- [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding)
 - [Gemini CLI Settings](#res-gemini-cli-settings)
 - [Getting Started with GitHub Copilot Custom Agents for Accessibility](#res-getting-started-with-github-copilot-custom-agents-for-accessibility)
@@ -1044,12 +1074,14 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [AppleVis Extra 114: Blind Developer Showcase: A Chat with Ashley Cox of Simulcast](#res-applevis-extra-114-blind-developer-showcase-a-chat-with-ashley-cox-of-simulcast) (Podcasts and videos)
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes) (Podcasts and videos)
 - [Blind Apps](#res-blind-apps) (Communities and organizations)
+- [Blind Developer Creates Seamless Windows on Mac Experience](#res-blind-developer-creates-seamless-windows-on-mac-experience) (Podcasts and videos)
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple) (Podcasts and videos)
 - [Bobby Singh – Finding Light Through NVDA](#res-bobby-singh-finding-light-through-nvda) (Articles and news)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding) (Communities and organizations)
 - [A Closer Look at Axe MCP Server](#res-a-closer-look-at-axe-mcp-server) (Agents, add-ons, and skills)
 - [CodeA11y: Making AI Coding Assistants Useful for Accessible Web Development](#res-codea11y-making-ai-coding-assistants-useful-for-accessible-web-development) (Research)
 - [Community Access](#res-community-access) (Communities and organizations)
+- [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility) (Podcasts and videos)
 - [DIY Accessibility: Adventures in Vibe Coding](#res-diy-accessibility-adventures-in-vibe-coding) (Articles and news)
 - [Earshot and Beyond: How Blind Developers Are Creating with AI](#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai) (Podcasts and videos)
 - [Everybody Is Vibe Coding. Here Is What That Does to Accessibility, and What to Actually Do About It.](#res-everybody-is-vibe-coding-here-is-what-that-does-to-accessibility-and-what-to-actually-do-about-it) (Articles and news)
