@@ -1,9 +1,9 @@
 ---
 title: "Blind Vibe Coding"
-subtitle: "A Directory of 56 Resources for Building Apps Nonvisually with AI"
+subtitle: "A Directory of 58 Resources for Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
-date: "October 2026"
-version: "v1.8.1"
+date: "November 2026"
+version: "v1.9.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -16,7 +16,7 @@ image_alt: "Illustration: a Black woman wearing earbuds works at a desktop compu
 description: "A screen-reader-friendly directory of resources for blind and low vision people who use a screen reader and build apps with help from AI."
 ---
 
-This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, the entries added on 3 October 2026 were checked that day, the two added on 4 October 2026 were checked that day, and the one added on 6 October 2026 was checked that day.
+This directory lists English-language resources for blind and low vision people who use a screen reader and want to build apps with help from AI, sometimes called "vibe coding." It covers guides, tools, courses, communities, podcasts, articles, and research, free and paid, for Windows, Mac, iOS, Android, Linux, and the web. Every resource explicitly mentions blindness, screen readers, or accessibility. Every resource was published or updated in 2024 or later, and every link was checked on 1 October 2026, the entries added on 3 October 2026 were checked that day, the two added on 4 October 2026 were checked that day, the one added on 6 October 2026 was checked that day, and the two added on 11 November 2026 were checked that day.
 
 A word about the name. Elsewhere, "blind vibe coding" has been used to mean letting an AI write code you never look at. Here the phrase is claimed in a positive sense, the way many communities have taken back a word: blind people building apps with AI, and checking the results by every nonvisual means available. That checking is the opposite of the careless habit the phrase has described.
 
@@ -35,8 +35,8 @@ Building your own tools is a real new option, but it does not excuse anyone from
 - [AI coding tools](#ai-coding-tools) (6 resources)
 - [Articles and news](#articles-and-news) (7 resources)
 - [Communities and organizations](#communities-and-organizations) (5 resources)
-- [Courses and training](#courses-and-training) (3 resources)
-- [Podcasts and videos](#podcasts-and-videos) (15 resources)
+- [Courses and training](#courses-and-training) (4 resources)
+- [Podcasts and videos](#podcasts-and-videos) (16 resources)
 - [Research](#research) (7 resources)
 - [Appendix: by date](#appendix-by-date)
 - [Appendix: by evidence](#appendix-by-evidence)
@@ -47,15 +47,15 @@ Building your own tools is a real new option, but it does not excuse anyone from
 
 ## By the Numbers {#by-the-numbers}
 
-- 96% of the 56 resources are free.
-- 22 resources draw on a blind or low vision person's own experience.
-- Mac and Windows lead the platforms, with 25 resources each.
+- 95% of the 58 resources are free.
+- 24 resources draw on a blind or low vision person's own experience.
+- Windows leads the platforms with 27 resources, followed by Mac with 26.
 
 ## About this directory {#about-this-directory}
 
 Each category is a level 2 heading. Each resource is a level 3 heading whose text is a link to the resource. Under each resource is a short list of fields in alphabetical order: Cost, Date, Description, Evidence, Level, Platforms, Publisher, Transcript, Type, and Web page. A field is shown only when it has something to say. Categories and resources are in alphabetical order, ignoring a leading "A," "An," or "The." The appendixes list every resource again by date, by evidence, by platform, and by title, followed by a practical checklist and a note on how the directory was made.
 
-The book. This directory has a companion Kindle ebook, *Blind Vibe Coding: Building Apps Nonvisually with AI* by Jamal Mazrui (October 2026): sixteen hands-on tutorials, most opening with the story of a real builder, from a talking timer made in a chat window to Windows programs, NVDA add-ons, browser extensions, and iPhone and Android apps, with a nonvisual release checklist and a glossary. Its second update, submitted on 6 October 2026, adds what [Blind Apps](#res-blind-apps) shows about where blind developers actually build, from the platforms they choose to the Android apps they have shipped, and a note on telling directory keepers about a finished app. An update prepared on 9 October 2026 adds two working methods with more than one AI: letting two assistants critique and adopt each other's work until neither finds more to change, and having a fresh assistant audit a whole repository at milestones; it also follows an outside audit of the book with clearer setup commands, safer advice on testing screen reader add-ons, and more careful claims. It is [sold on Amazon's Kindle store](https://www.amazon.com/dp/B0HLVK4H3W), at $4.99 with no DRM, so a buyer can download it as an EPUB from Amazon where Amazon offers that for DRM-free books.
+The book. This directory has a companion Kindle ebook, *Blind Vibe Coding: Building Apps Nonvisually with AI* by Jamal Mazrui (October 2026): sixteen hands-on tutorials, most opening with the story of a real builder, from a talking timer made in a chat window to Windows programs, NVDA add-ons, browser extensions, and iPhone and Android apps, with a nonvisual release checklist and a glossary. Its second update, submitted on 6 October 2026, adds what [Blind Apps](#res-blind-apps) shows about where blind developers actually build, from the platforms they choose to the Android apps they have shipped, and a note on telling directory keepers about a finished app. An update prepared on 9 October 2026 adds two working methods with more than one AI: letting two assistants critique and adopt each other's work until neither finds more to change, and having a fresh assistant audit a whole repository at milestones; it also follows an outside audit of the book with clearer setup commands, safer advice on testing screen reader add-ons, and more careful claims. An update prepared on 11 November 2026 adds lessons from Tony Gebhard's *No Sight Required*, including the story of his NVDA Coach add-on, and four new glossary terms. It is [sold on Amazon's Kindle store](https://www.amazon.com/dp/B0HLVK4H3W), at $4.99 with no DRM, so a buyer can download it as an EPUB from Amazon where Amazon offers that for DRM-free books.
 
 From the book. Chapter 2 builds a talking countdown timer in a chat window. A reference version written to the same request is in the `help\examples` folder of the free [HomerDev kit](https://github.com/JamalMazrui/HomerDev), which holds the book's example projects, to compare with your own: it accepts 1 to 120 minutes, runs one countdown at a time, says how many minutes remain once a minute, and counts from the clock so a slowed page stays accurate. It is a convenience, not an alarm to rely on for medication or safety.
 
@@ -429,7 +429,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 - Cost: Free
 - Date: October 2026
-- Description: A screen-reader-friendly directory of 180 apps and tools made by 45 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by JAWS scripts, then macOS and NVDA add-ons, iOS, the web, Android, and Linux, and Python is the most common language. Twenty-three of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
+- Description: A screen-reader-friendly directory of 180 apps and tools made by 45 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by JAWS scripts, then macOS and NVDA add-ons, iOS, the web, Android, and Linux, and Python is the most common language. Twenty-five of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
 - Level: Beginner
 - Platforms: Android, iOS, Linux, Mac, web, Windows
 - Publisher: Jamal Mazrui
@@ -480,6 +480,17 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Platforms: Windows
 - Publisher: Kevin Velásquez Vargas
 - Type: Course and NVDA add-on
+
+### [No Sight Required: The Blind User's Guide to AI](https://nosightrequired.com/) {#res-no-sight-required-the-blind-user-s-guide-to-ai}
+
+- Cost: Paid book
+- Date: June 2026
+- Description: A guide to using ChatGPT, Claude, and Gemini with NVDA, JAWS, VoiceOver, and TalkBack, by Tony Gebhard, a totally blind assistive technology instructor who is not a trained developer. Most of it is about using AI, but its later chapters turn to building: a first request that asks for wxPython rather than tkinter so a Python program's window is accessible, the loop of describing, running, and pasting back errors, Claude Code and Codex in the terminal read with NVDA's review commands, small audio and browser games that announce results through a live region, and the story of NVDA Coach, an NVDA training add-on he built with Claude starting from an empty file.
+- Evidence: Blind or low vision user experience
+- Level: Beginner
+- Platforms: Android, iOS, Mac, web, Windows
+- Publisher: Tony Gebhard (independently published)
+- Type: Book
 
 ### [Using Claude with JAWS, ZoomText, and Fusion](https://traffic.libsyn.com/secure/freedomscientifictraining/pod_Claude_webinar_2.5.2026.mp3) {#res-using-claude-with-jaws-zoomtext-and-fusion}
 
@@ -624,6 +635,18 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 - Type: Video and podcast episode
 - Web page: [Open the web page](https://www.lennysnewsletter.com/p/how-this-visually-impaired-engineer)
 
+### [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](https://op3.dev/e/injector.simplecastaudio.com/d838244c-2029-41b5-aa66-d28628ab36fa/episodes/4a474805-dc02-44eb-aabf-241842503dd1/audio/128/default.mp3) {#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required}
+
+- Cost: Free
+- Date: June 2026
+- Description: Steven Scott and Shaun Preece talk with Tony Gebhard about his book No Sight Required and how he directs Claude and Codex to build his own tools, from NVDA training modules to accessible web tools. He stresses learning screen reader basics before starting AI projects, and treating the AI as a worker you give assignments to. The episode opens with news about Meta's new smart glasses.
+- Evidence: Blind or low vision user experience
+- Level: Beginner
+- Platforms: web, Windows
+- Publisher: Double Tap (Steven Scott and Shaun Preece)
+- Type: Podcast episode
+- Web page: [Open the web page](https://doubletaponair.com/metas-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required/)
+
 ### [Road to the National Coding Symposium 2026: BT Code](https://www.youtube.com/watch?v=amMff5fXODc) {#res-road-to-the-national-coding-symposium-2026-bt-code}
 
 - Cost: Free
@@ -767,7 +790,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 Newest first. Within a group, entries with a known month come first, then the rest in alphabetical order.
 
-### 2026 (32 resources) {#2026-28-resources}
+### 2026 (34 resources) {#2026-28-resources}
 
 - [Blind Apps](#res-blind-apps) (October 2026)
 - [A Discussion Panel on Vibe Coding and Accessibility](#res-a-discussion-panel-on-vibe-coding-and-accessibility) (October 2026)
@@ -783,6 +806,8 @@ Newest first. Within a group, entries with a known month come first, then the re
 - [AppleVis Extra 115: Blind Developer Showcase: A Chat with Quinton Williams of VAL: Voice, Alarm & Chimes](#res-applevis-extra-115-blind-developer-showcase-a-chat-with-quinton-williams-of-val-voice-alarm-chimes) (July 2026)
 - [Earshot and Beyond: How Blind Developers Are Creating with AI](#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai) (June 2026 or later)
 - [Everybody Is Vibe Coding. Here Is What That Does to Accessibility, and What to Actually Do About It.](#res-everybody-is-vibe-coding-here-is-what-that-does-to-accessibility-and-what-to-actually-do-about-it) (June 2026)
+- [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required) (June 2026)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai) (June 2026)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape) (2026 (CHI 2026; first posted as a preprint in June 2025))
 - [Git, GitHub CLI, and Copilot CLI](#res-git-github-cli-and-copilot-cli) (May 2026)
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone) (April 2026 or later)
@@ -842,7 +867,7 @@ Newest first. Within a group, entries with a known month come first, then the re
 
 A resource appears under each kind of evidence it has.
 
-### Blind or low vision user experience (22 resources) {#blind-or-low-vision-user-experience-19-resources}
+### Blind or low vision user experience (24 resources) {#blind-or-low-vision-user-experience-19-resources}
 
 - [AI Adventures: Coding, Plugins, and Panda Express Mishaps with Taylor Arndt](#res-ai-adventures-coding-plugins-and-panda-express-mishaps-with-taylor-arndt)
 - [AI's Role in Improving Accessibility](#res-ai-s-role-in-improving-accessibility)
@@ -860,6 +885,8 @@ A resource appears under each kind of evidence it has.
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone)
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible)
 - [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude)
+- [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 - [Smart Glasses, Perkins Braillers, and Vibe Coding](#res-smart-glasses-perkins-braillers-and-vibe-coding)
 - [Swift Agents](#res-swift-agents)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence)
@@ -923,11 +950,12 @@ A resource appears under each kind of evidence it has.
 
 A resource appears under each platform it covers.
 
-### Android (3 resources) {#android-3-resources}
+### Android (4 resources) {#android-3-resources}
 
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
 - [Blind Apps](#res-blind-apps)
 - [Google I/O and GenAI's Impact on Accessibility](#res-google-i-o-and-genai-s-impact-on-accessibility)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 
 ### Cross-platform (7 resources) {#cross-platform-7-resources}
 
@@ -939,7 +967,7 @@ A resource appears under each platform it covers.
 - [Microsoft Study Shows AI Assistants Help with Development for Programmers Who Are Blind or Have Low Vision](#res-microsoft-study-shows-ai-assistants-help-with-development-for-programmers-who-are-blind-or-have-low-vision)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape)
 
-### iOS (9 resources) {#ios-9-resources}
+### iOS (10 resources) {#ios-9-resources}
 
 - [AppleVis](#res-applevis)
 - [AppleVis Extra #112: Stephen Lovely on Rethinking Visual Accessibility with Vision AI Assistant](#res-applevis-extra-112-stephen-lovely-on-rethinking-visual-accessibility-with-vision-ai-assistant)
@@ -948,6 +976,7 @@ A resource appears under each platform it covers.
 - [Blind Apps](#res-blind-apps)
 - [Can We Talk About Vibe Coding?](#res-can-we-talk-about-vibe-coding)
 - [Earshot and Beyond: How Blind Developers Are Creating with AI](#res-earshot-and-beyond-how-blind-developers-are-creating-with-ai)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 - [Swift Agents](#res-swift-agents)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence)
 
@@ -967,7 +996,7 @@ A resource appears under each platform it covers.
 - [Use Claude Code with a Screen Reader](#res-use-claude-code-with-a-screen-reader)
 - [Visual Studio Code April 2024 (version 1.89)](#res-visual-studio-code-april-2024-version-1-89)
 
-### Mac (25 resources) {#mac-22-resources}
+### Mac (26 resources) {#mac-22-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -987,6 +1016,7 @@ A resource appears under each platform it covers.
 - [GitHub Copilot for Visual Studio Code](#res-github-copilot-for-visual-studio-code)
 - [I Never Thought I Would Say This, but I'm Going Back to Claude](#res-i-never-thought-i-would-say-this-but-i-m-going-back-to-claude)
 - [LipCoder: Voice-Enabled Coding Toolkit](#res-lipcoder-voice-enabled-coding-toolkit)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions)
 - [Swift Agents](#res-swift-agents)
 - [Taylor's Teardowns: Xcode Intelligence](#res-taylor-s-teardowns-xcode-intelligence)
@@ -1000,7 +1030,7 @@ A resource appears under each platform it covers.
 - [Blind RSS and Vibe Coding: Accessible News Made Simple](#res-blind-rss-and-vibe-coding-accessible-news-made-simple)
 - [Road to the National Coding Symposium 2026: BT Code](#res-road-to-the-national-coding-symposium-2026-bt-code)
 
-### Web (23 resources) {#web-23-resources}
+### Web (25 resources) {#web-23-resources}
 
 - [A11y LLM Eval Report](#res-a11y-llm-eval-report)
 - [Accessibility Agents](#res-accessibility-agents)
@@ -1021,12 +1051,14 @@ A resource appears under each platform it covers.
 - [GitHub Repository Landing Pages Now Show an Accessibility Tab, If Provided](#res-github-repository-landing-pages-now-show-an-accessibility-tab-if-provided)
 - [How a Blind Developer Brought Artemis II to Life for Everyone](#res-how-a-blind-developer-brought-artemis-ii-to-life-for-everyone)
 - [How This Visually Impaired Engineer Uses Claude Code to Make His Life More Accessible](#res-how-this-visually-impaired-engineer-uses-claude-code-to-make-his-life-more-accessible)
+- [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions)
 - [Smart Glasses, Perkins Braillers, and Vibe Coding](#res-smart-glasses-perkins-braillers-and-vibe-coding)
 - [Using Claude with JAWS, ZoomText, and Fusion](#res-using-claude-with-jaws-zoomtext-and-fusion)
 - [Vibe Coding with AI: How Blind Users Can Build Their Own Tools](#res-vibe-coding-with-ai-how-blind-users-can-build-their-own-tools)
 
-### Windows (25 resources) {#windows-23-resources}
+### Windows (27 resources) {#windows-23-resources}
 
 - [Accessibility Agents](#res-accessibility-agents)
 - [Accessibility Skills by Mike Gifford](#res-accessibility-skills-by-mike-gifford)
@@ -1045,6 +1077,8 @@ A resource appears under each platform it covers.
 - [HomerDev: the Homer Development Kit](#res-homerdev-the-homer-development-kit)
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026)
 - [Learning Python with NVDA](#res-learning-python-with-nvda)
+- [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions)
 - [PlanCake](#res-plancake)
 - [Turning Ideas into Assistive Tools with Vibe Coding](#res-turning-ideas-into-assistive-tools-with-vibe-coding)
@@ -1100,7 +1134,9 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 - [In-Process 10th March 2026](#res-in-process-10th-march-2026) (Agents, add-ons, and skills)
 - [Learning Python with NVDA](#res-learning-python-with-nvda) (Courses and training)
 - [LipCoder: Voice-Enabled Coding Toolkit](#res-lipcoder-voice-enabled-coding-toolkit) (Research)
+- [Meta's New Glasses & Tony Gebhard Discusses His New AI Training Book 'No Sight Required'](#res-meta-s-new-glasses-tony-gebhard-discusses-his-new-ai-training-book-no-sight-required) (Podcasts and videos)
 - [Microsoft Study Shows AI Assistants Help with Development for Programmers Who Are Blind or Have Low Vision](#res-microsoft-study-shows-ai-assistants-help-with-development-for-programmers-who-are-blind-or-have-low-vision) (Research)
+- [No Sight Required: The Blind User's Guide to AI](#res-no-sight-required-the-blind-user-s-guide-to-ai) (Courses and training)
 - [Optimizing GitHub Copilot for Accessibility with Custom Instructions](#res-optimizing-github-copilot-for-accessibility-with-custom-instructions) (Agents, add-ons, and skills)
 - [PlanCake](#res-plancake) (AI coding tools)
 - [Programmers Who Use Screen Readers in the Vibe Coding Era: Adaptation, Empowerment, and New Accessibility Landscape](#res-programmers-who-use-screen-readers-in-the-vibe-coding-era-adaptation-empowerment-and-new-accessibility-landscape) (Research)
@@ -1120,7 +1156,7 @@ Alphabetical, ignoring a leading "A," "An," or "The." The category follows each 
 A starting routine drawn from the resources above. It is not a standard, and no listed tool is claimed to do all of it.
 
 1. Pick one small, low-risk problem. Write down who will use the app, what goes in, what comes out, and how you will know it works.
-1. Put accessibility in the very first request: real labels, full keyboard use, sensible focus, and clear spoken status and error messages. Prefer standard controls.
+1. Put accessibility in the very first request: real labels, full keyboard use, sensible focus, and clear spoken status and error messages. Prefer standard controls; for a Python window, ask for wxPython rather than tkinter.
 1. Ask for a plan before asking for code, and have the AI list the files and commands it intends to use.
 1. Choose an authoring tool you can actually operate. Check that you can read the whole answer, hear when work is done, answer permission prompts, and review changed files.
 1. Work in small steps and keep a history you can roll back, such as Git. Commit each working step so you can always return to a known good version.
@@ -1134,7 +1170,7 @@ A starting routine drawn from the resources above. It is not a standard, and no 
 
 ## Appendix: how this directory was made {#appendix-how-this-directory-was-made}
 
-Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, on 3 October 2026 for the three entries about the GitHub accessibility tab, on 4 October 2026 for PlanCake and Learning Python with NVDA, or on 6 October 2026 for Blind Apps, and every description is based on what the page itself says.
+Research combined several independent searches across blindness organizations, screen reader makers, AI tool vendors, course providers, podcasts, and academic papers, with Windows, Mac, Linux, iOS, Android, Alexa, and the web each searched on purpose. Every link was opened or confirmed through search results on 1 October 2026, on 3 October 2026 for the three entries about the GitHub accessibility tab, on 4 October 2026 for PlanCake and Learning Python with NVDA, on 6 October 2026 for Blind Apps, or on 11 November 2026 for the two entries about No Sight Required, and every description is based on what the page itself says.
 
 What verification means here:
 
