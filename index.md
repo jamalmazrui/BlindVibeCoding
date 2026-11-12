@@ -429,7 +429,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 - Cost: Free
 - Date: October 2026
-- Description: A screen-reader-friendly directory of 180 apps and tools made by 45 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by JAWS scripts, then macOS and NVDA add-ons, iOS, the web, Android, and Linux, and Python is the most common language. Twenty-five of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
+- Description: A screen-reader-friendly directory of 183 apps and tools made by 46 blind and low vision developers, each with a one-sentence summary, the platform it runs on, its programming languages, and the AI it uses or was built with. Its statistics show where blind developers build: Windows leads, followed by JAWS scripts, then macOS and NVDA add-ons, iOS, the web, Android, and Linux, and Python is the most common language. Twenty-seven of the apps were built with help from an AI, so it is a good place to see what is possible and whose work to learn from.
 - Level: Beginner
 - Platforms: Android, iOS, Linux, Mac, web, Windows
 - Publisher: Jamal Mazrui
