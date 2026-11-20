@@ -3,7 +3,7 @@ title: "Blind Vibe Coding"
 subtitle: "A Directory of 61 Resources for Building Apps Nonvisually with AI"
 author: "Jamal Mazrui"
 date: "November 2026"
-version: "v1.10.0"
+version: "v1.10.1"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -625,7 +625,7 @@ Gaps. The evidence is strongest for Windows and Mac, terminal coding agents, Vis
 
 - Cost: Free
 - Date: October 2026
-- Description: A National Federation of the Blind Access On panel, held on Zoom on October 27, 2026, with three blind builders: Allison Meloy, who vibe coded AVM and AccessTerm for the Mac; Andre "Onj" Louis, a London musician who builds speech, music, and system tools; and Luke Liebe, a computer science graduate in blindness employment services who uses AI to port programs and helped bring classic iPhone audio games such as Papa Sangre back on Windows. They discuss when AI-written code is slop and when it is careful work, why AI tools still make inaccessible interfaces by default, testing with your own screen reader before release, and using AI as a patient tutor. The page lists the event; a recording goes to people who registered.
+- Description: A National Federation of the Blind Access On panel, held on Zoom on October 27, 2026, with three blind builders: Allison Meloy, who vibe coded AVM and AccessTerm for the Mac; Andre "Onj" Louis, a London musician who builds speech, music, and system tools; and Luke Leiby, a computer science graduate and full-stack engineer who uses AI in his own tools and wrote the HearthstoneAccess Patcher, which installs the community accessibility patch for the Hearthstone card game. They discuss when AI-written code is slop and when it is careful work, why AI tools still make inaccessible interfaces by default, testing with your own screen reader before release, and using AI as a patient tutor. The page lists the event; a recording goes to people who registered.
 - Evidence: Blind or low vision user experience
 - Level: Beginner
 - Platforms: Mac, Windows
